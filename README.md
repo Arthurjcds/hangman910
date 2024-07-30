@@ -3,4 +3,6 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
-So far i have just started coding to ensure 1 letter at a time is played
+Milestone_2 has been added, it just defines a list of words and chooses one of them at random to be guessed. It also asks the user for an input (your guess) and verifies that it is a single character
+
+Milestone_3 builds on the last update and iteratively checks the input is valid, if not it will ask for a new one. It now checks if the guess is in the random word, returning feedback based on the answer. The code is sorted into functions for increased simplicity and readibility
