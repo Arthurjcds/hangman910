@@ -9,3 +9,7 @@ Milestone_3 builds on the last update and iteratively checks the input is valid,
 
 
 Milestone 4 adds new class, has lives, moer guesses and knows if the letter has been guessed
+
+Milestone_5 adds first function outside the class, calls in the Hangman class, checks if you can still play, have won or have lost
+Provides necessary feedback
+Calls the game and starts
